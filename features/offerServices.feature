@@ -30,10 +30,4 @@ E Eu quero adicionar um novo serviço ja existente
 Quando Eu pressiono o botão de adicionar serviço
 Então Eu vou para uma página de serviço existente
 E  Eu consigo ver que não pude cadastrar o novo serviço porque ele ja estava cadastrado
-
-Cenário: Duplicar serviço
-Dado que  Eu estou na página de cadastro de serviço
-E Eu quero adicionar um novo serviço ja existente
-Quando Eu pressiono o botão de adicionar serviço
-Então Eu vou para uma página de serviço existente
-E  Eu consigo ver que não pude cadastrar o novo serviço porque ele ja estava cadastrado
+Então feffds
